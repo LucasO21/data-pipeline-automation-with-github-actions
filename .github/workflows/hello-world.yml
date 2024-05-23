@@ -2,8 +2,7 @@ name: Hello World!
 
 on:
     schedule:
-        - cron: "35 7 * * *"
-
+        - cron: "0 */1 * * *"
 jobs:
     hello-world:
         runs-on: ubuntu-22.04
@@ -11,4 +10,4 @@ jobs:
             image: rkrispin/data-pipeline-automation-with-github-actions:prod
         steps:
             - name: print-hello-world
-              run: echo "hello world!"
+              run: echo "Hello World!"
