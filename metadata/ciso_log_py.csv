@@ -5595,3 +5595,7 @@ index,parent,subba,time,start,end,start_act,end_act,start_match,end_match,n_obs,
 1399,CISO,SCE,2024-07-02 06:02:16.814664+00:00,2024-06-30 08:00:00,2024-07-01 07:00:00,2024-06-30 08:00:00,2024-07-01 07:00:00,True,True,24.0,7.0,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
 1399,CISO,SDGE,2024-07-02 06:02:18.132139+00:00,2024-06-30 08:00:00,2024-07-01 07:00:00,2024-06-30 08:00:00,2024-07-01 07:00:00,True,True,24.0,7.0,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
 1399,CISO,VEA,2024-07-02 06:02:19.425644+00:00,2024-06-30 08:00:00,2024-07-01 07:00:00,2024-06-30 08:00:00,2024-07-01 07:00:00,True,True,24.0,7.0,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
+1400,CISO,PGAE,2024-07-02 07:02:08.702933+00:00,2024-06-30 08:00:00,2024-06-30 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+1400,CISO,SCE,2024-07-02 07:02:08.703869+00:00,2024-06-30 08:00:00,2024-06-30 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+1400,CISO,SDGE,2024-07-02 07:02:08.705473+00:00,2024-06-30 08:00:00,2024-06-30 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+1400,CISO,VEA,2024-07-02 07:02:08.706829+00:00,2024-06-30 08:00:00,2024-06-30 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
